@@ -1,0 +1,7 @@
+D:\Niki\stuff\IT - kariera\1.1\7.Test\1.GoSkiing\bin\Debug\1.GoSkiing.exe.config
+D:\Niki\stuff\IT - kariera\1.1\7.Test\1.GoSkiing\bin\Debug\1.GoSkiing.exe
+D:\Niki\stuff\IT - kariera\1.1\7.Test\1.GoSkiing\bin\Debug\1.GoSkiing.pdb
+D:\Niki\stuff\IT - kariera\1.1\7.Test\1.GoSkiing\obj\Debug\1.GoSkiing.csprojAssemblyReference.cache
+D:\Niki\stuff\IT - kariera\1.1\7.Test\1.GoSkiing\obj\Debug\1.GoSkiing.csproj.CoreCompileInputs.cache
+D:\Niki\stuff\IT - kariera\1.1\7.Test\1.GoSkiing\obj\Debug\1.GoSkiing.exe
+D:\Niki\stuff\IT - kariera\1.1\7.Test\1.GoSkiing\obj\Debug\1.GoSkiing.pdb

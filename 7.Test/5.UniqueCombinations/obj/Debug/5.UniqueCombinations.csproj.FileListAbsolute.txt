@@ -1,0 +1,7 @@
+D:\Niki\stuff\IT - kariera\1.1\7.Test\5.UniqueCombinations\bin\Debug\5.UniqueCombinations.exe.config
+D:\Niki\stuff\IT - kariera\1.1\7.Test\5.UniqueCombinations\bin\Debug\5.UniqueCombinations.exe
+D:\Niki\stuff\IT - kariera\1.1\7.Test\5.UniqueCombinations\bin\Debug\5.UniqueCombinations.pdb
+D:\Niki\stuff\IT - kariera\1.1\7.Test\5.UniqueCombinations\obj\Debug\5.UniqueCombinations.csproj.CoreCompileInputs.cache
+D:\Niki\stuff\IT - kariera\1.1\7.Test\5.UniqueCombinations\obj\Debug\5.UniqueCombinations.exe
+D:\Niki\stuff\IT - kariera\1.1\7.Test\5.UniqueCombinations\obj\Debug\5.UniqueCombinations.pdb
+D:\Niki\stuff\IT - kariera\1.1\7.Test\5.UniqueCombinations\obj\Debug\5.UniqueCombinations.csprojAssemblyReference.cache

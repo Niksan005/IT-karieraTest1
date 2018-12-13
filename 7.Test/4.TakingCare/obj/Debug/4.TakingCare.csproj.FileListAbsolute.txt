@@ -1,0 +1,6 @@
+D:\Niki\stuff\IT - kariera\1.1\7.Test\4.TakingCare\bin\Debug\4.TakingCare.exe.config
+D:\Niki\stuff\IT - kariera\1.1\7.Test\4.TakingCare\bin\Debug\4.TakingCare.exe
+D:\Niki\stuff\IT - kariera\1.1\7.Test\4.TakingCare\bin\Debug\4.TakingCare.pdb
+D:\Niki\stuff\IT - kariera\1.1\7.Test\4.TakingCare\obj\Debug\4.TakingCare.csproj.CoreCompileInputs.cache
+D:\Niki\stuff\IT - kariera\1.1\7.Test\4.TakingCare\obj\Debug\4.TakingCare.exe
+D:\Niki\stuff\IT - kariera\1.1\7.Test\4.TakingCare\obj\Debug\4.TakingCare.pdb

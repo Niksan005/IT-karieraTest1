@@ -1,0 +1,6 @@
+D:\Niki\stuff\IT - kariera\1.1\7.Test\3.Hotel\obj\Debug\3.Hotel.csproj.CoreCompileInputs.cache
+D:\Niki\stuff\IT - kariera\1.1\7.Test\3.Hotel\bin\Debug\3.Hotel.exe.config
+D:\Niki\stuff\IT - kariera\1.1\7.Test\3.Hotel\bin\Debug\3.Hotel.exe
+D:\Niki\stuff\IT - kariera\1.1\7.Test\3.Hotel\bin\Debug\3.Hotel.pdb
+D:\Niki\stuff\IT - kariera\1.1\7.Test\3.Hotel\obj\Debug\3.Hotel.exe
+D:\Niki\stuff\IT - kariera\1.1\7.Test\3.Hotel\obj\Debug\3.Hotel.pdb
